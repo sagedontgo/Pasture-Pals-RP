@@ -1,0 +1,7 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "minecraft:item/feather/warm_feather",
+		"tints": []
+	}
+}

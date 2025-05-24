@@ -1,0 +1,7 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "minecraft:item/egg/gold_crested_egg",
+		"tints": []
+	}
+}

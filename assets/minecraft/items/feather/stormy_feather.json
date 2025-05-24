@@ -1,0 +1,7 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "minecraft:item/feather/stormy_feather",
+		"tints": []
+	}
+}

@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 55,
+        "description": "§ePasture Pals Resource Pack! §7v1.21.5\n§7 | §4§lREQUIRED",
+		"supported_formats": [
+            50,
+            54
+		]
+    }
+}

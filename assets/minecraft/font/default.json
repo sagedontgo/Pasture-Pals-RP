@@ -1,0 +1,6 @@
+{"providers":
+[   
+    {"type":"bitmap","file":"minecraft:font/cow.png","ascent":8,"height":8,"chars":["\uEB0A"]},
+    {"type":"bitmap","file":"minecraft:font/pig.png","ascent":8,"height":8,"chars":["\uEB0B"]}
+]
+}

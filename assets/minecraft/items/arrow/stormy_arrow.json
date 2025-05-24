@@ -1,0 +1,7 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "minecraft:item/arrow/stormy_arrow",
+		"tints": []
+	}
+}

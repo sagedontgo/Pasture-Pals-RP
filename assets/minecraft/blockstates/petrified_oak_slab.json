@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/i_hab_notting"
+    },
+    "type=double": {
+      "model": "minecraft:block/i_hab_notting"
+    },
+    "type=top": {
+      "model": "minecraft:block/i_hab_notting"
+    }
+  }
+}
